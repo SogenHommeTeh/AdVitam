@@ -1,6 +1,6 @@
 # AdVitam
 
-Project composed by the SelectSupplier class and the SelectSupplierTests suite
+Project composed by the SelectSupplier class and the SelectSupplierTests suite<br/>
 Developed using ruby-2.5.1 (Setup using `rvm` Ruby Version Manager)
 
 ## Usage
